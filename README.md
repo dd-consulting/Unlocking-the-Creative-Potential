@@ -1,8 +1,8 @@
-# Unlocking-the-Creative-Potential
+# Unlocking the Creative Potential
 
-- Embrace the Future of Generative AI (GAI)
+- **Embrace the Future of Generative AI (GAI)**
 
-- Workshop: "Generative AI Storytelling Adventure"
+- ** Generative AI Storytelling Adventure**
 
 ![](https://github.com/dd-consulting/Unlocking-the-Creative-Potential/blob/main/media/001.png)
 
@@ -27,6 +27,7 @@ Introduction to relevant online tools for the workshop:
  - OpenAI's ChatGPT for narrative
  - NaturalReader, Descript or Google's Text-to-Speech for voiceovers
  - Mubert, Jukebox for music generation
+ - Veed.io for video editing, text to speech, subtitles
 
 A quick demo of how to use these tools
 
