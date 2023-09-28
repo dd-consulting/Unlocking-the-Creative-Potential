@@ -2,7 +2,7 @@
 
 - **Embrace the Future of Generative AI (GAI)**
 
-- ** Generative AI Storytelling Adventure**
+- **Generative AI Storytelling Adventure**
 
 ![](https://github.com/dd-consulting/Unlocking-the-Creative-Potential/blob/main/media/001.png)
 
