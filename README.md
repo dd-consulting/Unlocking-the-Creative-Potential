@@ -4,7 +4,7 @@
 
 - Workshop: "Generative AI Storytelling Adventure"
 
-![]https://github.com/dd-consulting/Unlocking-the-Creative-Potential/media/001.png)
+![](https://github.com/dd-consulting/Unlocking-the-Creative-Potential/blob/main/media/001.png)
 
 **Objective:** Introduce students to the world of generative AI and enable them to collaborate and produce a short video narrative using AI tools.
 
